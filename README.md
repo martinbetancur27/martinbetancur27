@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - [Scraper de páginas web](https://github.com/martinbetancur27/python_scraping_selenium_beautifulsoup_requests)
 - [Diario Personal](https://github.com/martinbetancur27/PersonalJournal)
 - [Tareas](https://github.com/martinbetancur27/TaskProject)
-- [API de gestion de autenticación con JWT](https://github.com/martinbetancur27/AuthJWTProject)
+- [API de gestión de autenticación con JWT](https://github.com/martinbetancur27/AuthJWTProject)
 
 ## 🛠 Skills
 
